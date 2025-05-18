@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
