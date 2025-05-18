@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
