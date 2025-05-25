@@ -22,12 +22,14 @@
 | [0119-pascals-triangle-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -49,4 +52,8 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
