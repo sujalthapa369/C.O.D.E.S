@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
 | [0119-pascals-triangle-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
 ## String
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
