@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0062-unique-paths) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
