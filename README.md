@@ -34,10 +34,12 @@
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
+| [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
 ## Enumeration
 |  |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
