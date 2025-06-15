@@ -16,6 +16,7 @@
 | [0070-climbing-stairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0435-non-overlapping-intervals) |
 ## Combinatorics
 |  |
@@ -66,9 +67,11 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
+| [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
