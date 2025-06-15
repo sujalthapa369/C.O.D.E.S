@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
+| [1250-longest-common-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1250-longest-common-subsequence) |
 | [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
 ## Enumeration
