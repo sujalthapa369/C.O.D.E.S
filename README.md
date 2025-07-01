@@ -86,6 +86,7 @@
 | [1250-longest-common-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1250-longest-common-subsequence) |
 | [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3617-find-the-original-typed-string-i) |
 ## Enumeration
 |  |
 | ------- |
