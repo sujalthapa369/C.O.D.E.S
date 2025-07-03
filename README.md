@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0070-climbing-stairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,8 +127,17 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
