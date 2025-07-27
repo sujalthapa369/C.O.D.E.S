@@ -45,6 +45,7 @@
 | [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3321-type-of-triangle) |
 ## Hash Table
