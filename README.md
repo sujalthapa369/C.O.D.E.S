@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0055-jump-game) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0001-two-sum) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
