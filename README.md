@@ -37,6 +37,7 @@
 | [0055-jump-game](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0136-single-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
