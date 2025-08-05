@@ -39,6 +39,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0435-non-overlapping-intervals) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
@@ -66,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
