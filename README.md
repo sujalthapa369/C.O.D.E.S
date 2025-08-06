@@ -48,6 +48,7 @@
 | [0455-assign-cookies](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0506-relative-ranks) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2215-finding-3-digit-even-numbers) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3194-find-words-containing-character) |
@@ -149,5 +150,10 @@
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
