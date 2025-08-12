@@ -34,6 +34,7 @@
 | [0001-two-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0455-assign-cookies) |
@@ -96,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/1250-longest-common-subsequence) |
