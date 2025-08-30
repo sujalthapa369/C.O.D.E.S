@@ -60,6 +60,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0778-reorganize-string](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0778-reorganize-string) |
@@ -94,6 +95,7 @@
 | [0011-container-with-most-water](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0455-assign-cookies) |
@@ -169,4 +171,5 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
