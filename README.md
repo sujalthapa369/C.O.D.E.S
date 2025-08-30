@@ -152,6 +152,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0021-merge-two-sorted-lists) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/2132-convert-1d-array-into-2d-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
