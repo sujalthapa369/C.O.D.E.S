@@ -36,6 +36,7 @@
 | [0031-next-permutation](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0056-merge-intervals) |
 | [0119-pascals-triangle-ii](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sujalthapa369/C.O.D.E.S/tree/master/0455-assign-cookies) |
